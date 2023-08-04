@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Apps!
 
 ## You can find me 🌍:
-- [LinkedIn](https://www.linkedin.com/in/marta-yebra-gonz%C3%A1lez-06b8461b3/)
+- [LinkedIn](https://www.linkedin.com/in/marta-yebra-gonzalez/)
 
 ## Tecnologies:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
